@@ -4,6 +4,8 @@
 // Perform the operation on two number.
 // print the result to the terminal.
 
+// calculator
+
 
 const readline = require('readline-sync');
 
