@@ -36,7 +36,7 @@ prompt('what operator do you want to operate?\n1) Add 2) subract 3)multiply 4) d
 let operation = readline.question();
 
 while (!['1', '2', '3', '4'].includes(operation)) {
-  prompt('Must chose 1, 2, 3, 4');
+  prompt('Must choose 1, 2, 3, 4');
   operation = readline.question();
 }
 
